@@ -1,0 +1,9 @@
+#Parameterised functions
+#Define and call a parameterised function
+def display (x,y):
+    print("First parameter value is",x)
+    print("Second parameter value is",y)
+
+#call display()
+display(10,20)
+display("Diya",45)
